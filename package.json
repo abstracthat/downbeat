@@ -1,8 +1,8 @@
 {
   "name": "downbeat",
-  "version": "1.0.0",
-  "description": "Stylus fractional grid system built with calc().",
-  "main": "downbeat.js",
+  "version": "1.0.1",
+  "description": "Vertical rhythm and modular scale library for Stylus.",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/abstracthat/downbeat.git"
@@ -12,7 +12,9 @@
     "stylus",
     "rhythm",
     "vertical",
-    "spacing"
+    "typography",
+    "spacing",
+    "modular scale"
   ],
   "author": {
     "name": "Josh Bertrand"
