@@ -1,0 +1,35 @@
+{
+  "name": "downbeat",
+  "version": "1.0.0",
+  "description": "Stylus fractional grid system built with calc().",
+  "main": "downbeat.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abstracthat/downbeat.git"
+  },
+  "keywords": [
+    "vertical rhythm",
+    "stylus",
+    "rhythm",
+    "vertical",
+    "spacing"
+  ],
+  "author": {
+    "name": "Josh Bertrand"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abstracthat/downbeat/issues"
+  },
+  "homepage": "https://github.com/abstracthat/downbeat",
+  "_npmUser": {
+    "name": "abstracthat",
+    "email": "josh.bertrand@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "abstracthat",
+      "email": "josh.bertrand@gmail.com"
+    }
+  ]
+}
