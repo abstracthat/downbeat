@@ -1,6 +1,6 @@
 {
   "name": "downbeat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vertical rhythm and modular scale library for Stylus.",
   "main": "index.js",
   "repository": {

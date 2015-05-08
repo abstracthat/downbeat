@@ -46,7 +46,7 @@ body
 // Includes a media query for using the larger baseline on large screens.
 
 rhythm(bottom = 1, top = null)
-  if length(arguments) > 1
+  if top isnt null
     bottom-margin = top
     top-margin = bottom
 
